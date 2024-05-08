@@ -42,7 +42,6 @@ INSTALLED_APPS = [
     'qms',
     # installed apps
     'rest_framework',
-    'django_extensions',
 ]
 
 MIDDLEWARE = [
